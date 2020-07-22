@@ -7,10 +7,10 @@
 
 *In this project I mastered:*
 
-**Python**
-**Telegram API**
-**Sklearn (TfidfVectorizer, LogisticRegression, LinearSVC, CountVectorizer)**
-**Nltk**
+**Python**<br>
+**Telegram API**<br>
+**Sklearn (TfidfVectorizer, LogisticRegression, LinearSVC, CountVectorizer)**<br>
+**Nltk**<br>
 
 
 ## Files
