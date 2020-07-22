@@ -5,7 +5,7 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1Z-9A077TmQYBQgn0dtbimsgQJbWVMx66)
 
-*In this project I mastered:*
+In this project I mastered:
 
 **Python**<br>
 **Telegram API**<br>
