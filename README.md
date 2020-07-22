@@ -18,8 +18,9 @@ In this project I mastered:
 
 > dialogues.txt — big dataset of dialogues, formed using fiction literature 
 by Ilya Koziev (https://github.com/Koziev/NLP_Datasets/tree/master/Conversations/Data).
-#### Wanning!!! dialogues.txt is achived in diaalogues.zip because of Gthhub filesize limits
-#### To troperly use it you should unpack file in project directory
+### Warning! 
+dialogues.txt is achived in diaalogues.zip because of Gthhub filesize limits
+To properly use it you should unpack file in project directory
 
 
 
