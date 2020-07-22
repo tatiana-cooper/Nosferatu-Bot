@@ -28,12 +28,12 @@ To properly use it you should unpack file in project directory <br>
 This project requires Python 3+, Jupyter Notebook and Telegram account.
 ### Clone
 
--   Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Nosferatu-Bot.git`
+Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Nosferatu-Bot.git`
 
 ### Setup
 Windows 10:
 
-For lunching Bot create Telegram bot using Telegram manual. Add bot's credentials in corresponding variable in 'nosferatu_bot.ipynb' file. 
+For launching Bot create Telegram bot using Telegram manual. Add bot's credentials in corresponding variable in 'nosferatu_bot.ipynb' file. 
 Launch 'nosferatu_bot.ipynb' using Jupyter Notebook.
 
 
