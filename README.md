@@ -19,7 +19,7 @@ In this project I mastered:
 > dialogues.txt — big dataset of dialogues, formed using fiction literature 
 by Ilya Koziev (https://github.com/Koziev/NLP_Datasets/tree/master/Conversations/Data).
 ### Warning! 
-`dialogues.txt` is achived in `dialogues.rar` because of Github filesize limits <br>
+`dialogues.txt` is achived in `dialogues.rar` because of Github filesize limits.<br>
 To properly use it you should unpack file in project directory <br>
 
 
@@ -33,7 +33,7 @@ Clone this repo to your local machine using  `https://github.com/tatiana-cooper/
 ### Setup
 Windows 10:
 
-For launching Bot create Telegram bot using Telegram manual. Add bot's credentials in corresponding variable in 'nosferatu_bot.ipynb' file. 
+For launching Bot create Telegram bot, using Telegram manual. Add bot's credentials in corresponding variable in 'nosferatu_bot.ipynb' file.<br>
 Launch 'nosferatu_bot.ipynb' using Jupyter Notebook.
 
 
