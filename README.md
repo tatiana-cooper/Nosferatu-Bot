@@ -48,7 +48,7 @@ Launch 'nosferatu_bot.ipynb' using Jupyter Notebook.
  
 It has big database of movies and cartoons to suggest.
 
-The chatting process is based on Machine Learning algorithms.
+The gorgeous chatting process is based on Machine Learning algorithms.
 
 ---
 
